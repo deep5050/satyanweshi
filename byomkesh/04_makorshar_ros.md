@@ -2,10 +2,9 @@
 <div align=center>
 <p align=center><h1 align=center>মাকড়সার রস</h1></p>
 
-<p align=center><h3 align=center>০১</h3></p>
 </div>
 
-## ০১
+# 1
 
 
  ব্যোমকেশকে এক রকম জোর করিয়াই বাড়ি হইতে বাহির করিয়াছিলাম।
