@@ -6,7 +6,7 @@
 <p>:)</p>
 <p align=center>
 
-Collection Of All Byomkesh Bakshi Stories In One Place
+All Byomkesh Bakshi Stories In One Place
 </p>
 <hr>
 <img align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/satyanweshi?style=for-the-badge"></img>
