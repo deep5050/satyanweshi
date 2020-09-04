@@ -1,17 +1,10 @@
 <div align=center>
+ <a href="https://www.behance.net/aichsourav"><img align=center src="./images/cover.png" title="aichsourav@behance"></a>
+ <hr><hr>
 
-<a href="https://www.behance.net/aichsourav"><img align=center src="./images/cover.png" title="aichsourav@behance"></a>
-
-
-<p>:)</p>
-<p align=center>
-
-
-All Byomkesh Bakshi Stories In One Place
-
-</p>
-<hr>
-<img align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/satyanweshi?style=for-the-badge"></img>
+ <p align=center>ব্যোমকেশ বক্সী শরদিন্দু বন্দ্যোপাধ্যায় সৃষ্ট বাংলা সাহিত্যের অন্যতম জনপ্রিয় গোয়েন্দা চরিত্র। শরদিন্দু বন্দ্যোপাধ্যায় ব্যোমকেশ চরিত্র নিয়ে ৩৩টি কাহিনী রচনা করেছেন। এর মাঝে ১টি অসম্পূর্ণ। </p>
+ <hr>
+ <p align=center><img align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/satyanweshi?style=for-the-badge" />
  <hr>
 </div>
 
@@ -83,7 +76,6 @@ All Byomkesh Bakshi Stories In One Place
 
 ৩৩. <a href="./stories/33_bishupal_bodh.md">বিশুপাল বধ </a>
 
-<<<<<<< HEAD
 
 ## License
 
@@ -113,9 +105,10 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 ## Thanks
+
 [e-banglalibrary](https://www.ebanglalibrary.com/)
 
 [Sourav Aich For The Cover Photo](https://www.behance.net/aichsourav)
-=======
-</div>
->>>>>>> 161181197cc988cd87fdf12cb04669141813eb6f
+
+
+
