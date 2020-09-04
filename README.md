@@ -6,7 +6,9 @@
 <p>:)</p>
 <p align=center>
 
-Collection Of All stories Bakshi Stories In One Place
+
+All Byomkesh Bakshi Stories In One Place
+
 </p>
 <hr>
 <img align=center alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/satyanweshi?style=for-the-badge"></img>
@@ -81,6 +83,7 @@ Collection Of All stories Bakshi Stories In One Place
 
 ৩৩. <a href="./stories/33_bishupal_bodh.md">বিশুপাল বধ </a>
 
+<<<<<<< HEAD
 
 ## License
 
@@ -113,3 +116,6 @@ For more information, please refer to <https://unlicense.org>
 [e-banglalibrary](https://www.ebanglalibrary.com/)
 
 [Sourav Aich For The Cover Photo](https://www.behance.net/aichsourav)
+=======
+</div>
+>>>>>>> 161181197cc988cd87fdf12cb04669141813eb6f
